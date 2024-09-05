@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Add this CSS to your global stylesheet or a CSS module */
+.stop1.show, .stop2.show, .stop3.show, .stop4.show {
+  opacity: 1;
+}
